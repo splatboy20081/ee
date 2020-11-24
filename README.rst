@@ -2,6 +2,7 @@ Splatboy's PvP
 ========
 
 Splatboy's PvP - The fork of Hyperium, with the source code public!
+
 .. image:: https://readthedocs.org/projects/splatboyspvp/badge/?version=latest
 :target: https://splatboyspvp.readthedocs.io/en/latest/?badge=latest
 :alt: Documentation Status

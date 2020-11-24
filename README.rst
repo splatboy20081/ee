@@ -1,41 +1,33 @@
-Template
+Splatboy's PvP
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+Splatboy's PvP - The fork of Hyperium, with the source code public!
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
 
 Features
 --------
 
-- Be awesome
-- Make things faster
+- 1.8 PvP
+- Tons of mods and addons to boost your PvP experience
 
 Installation
 ------------
 
-Install $project by running:
-
-    install project
+Install Splatboy's PvP from GitHub releases:
+        https://github.com/splatboy20081/SplatboysPvP/releases
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Issue Tracker: github.com/splatboy20081/SplatboysPvP/issues
+- Source Code: github.com/splatboy20081/SplatboysPvP
 
 Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+If you are having issues, please let us know, via the Issue Tracker.
 
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the GPL v3.0 license.

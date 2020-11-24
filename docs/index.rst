@@ -7,8 +7,6 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
-
 
 
 Indices and tables

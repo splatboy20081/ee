@@ -1,7 +1,4 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
-
-
+* Splatboy Dev (the mod's developer)
